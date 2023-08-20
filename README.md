@@ -8,8 +8,7 @@
 - ✋ Hi I am @asquarechicken from 🇨🇦 
 - 💡 New to the world of coding and software development 
 - 📚 Looking to develop new skills 
-- 🌲 Masters in Forest Conservation
-    - Thesis: Developed an R program that determined % composition of tree species from satilite data
+- 👶 B.Eng - hopefully class of 2027
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
