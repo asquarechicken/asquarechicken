@@ -8,7 +8,6 @@
 - ✋ Hi I am @asquarechicken from 🇨🇦 
 - 💡 New to the world of coding and software development 
 - 📚 Looking to develop new skills 
-- ⚙️ B.Eng - hopefully class of 2027
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
